@@ -1,0 +1,960 @@
+Size: 500
+        Random array
+                QuickSort: 126
+                IntroSort: 80
+        Descending array
+                QuickSort: 75
+                IntroSort: 64
+        Nearly sorted array
+                QuickSort: 85
+                IntroSort: 53
+Size: 600
+        Random array
+                QuickSort: 115
+                IntroSort: 95
+        Descending array
+                QuickSort: 87
+                IntroSort: 80
+        Nearly sorted array
+                QuickSort: 109
+                IntroSort: 71
+Size: 700
+        Random array
+                QuickSort: 155
+                IntroSort: 128
+        Descending array
+                QuickSort: 122
+                IntroSort: 87
+        Nearly sorted array
+                QuickSort: 117
+                IntroSort: 74
+Size: 800
+        Random array
+                QuickSort: 167
+                IntroSort: 135
+        Descending array
+                QuickSort: 118
+                IntroSort: 109
+        Nearly sorted array
+                QuickSort: 150
+                IntroSort: 98
+Size: 900
+        Random array
+                QuickSort: 195
+                IntroSort: 167
+        Descending array
+                QuickSort: 186
+                IntroSort: 128
+        Nearly sorted array
+                QuickSort: 163
+                IntroSort: 125
+Size: 1000
+        Random array
+                QuickSort: 199
+                IntroSort: 182
+        Descending array
+                QuickSort: 172
+                IntroSort: 132
+        Nearly sorted array
+                QuickSort: 225
+                IntroSort: 119
+Size: 1100
+        Random array
+                QuickSort: 265
+                IntroSort: 217
+        Descending array
+                QuickSort: 201
+                IntroSort: 146
+        Nearly sorted array
+                QuickSort: 196
+                IntroSort: 135
+Size: 1200
+        Random array
+                QuickSort: 243
+                IntroSort: 224
+        Descending array
+                QuickSort: 191
+                IntroSort: 171
+        Nearly sorted array
+                QuickSort: 195
+                IntroSort: 142
+Size: 1300
+        Random array
+                QuickSort: 277
+                IntroSort: 243
+        Descending array
+                QuickSort: 216
+                IntroSort: 198
+        Nearly sorted array
+                QuickSort: 219
+                IntroSort: 159
+Size: 1400
+        Random array
+                QuickSort: 286
+                IntroSort: 290
+        Descending array
+                QuickSort: 252
+                IntroSort: 194
+        Nearly sorted array
+                QuickSort: 236
+                IntroSort: 180
+Size: 1500
+        Random array
+                QuickSort: 338
+                IntroSort: 294
+        Descending array
+                QuickSort: 263
+                IntroSort: 227
+        Nearly sorted array
+                QuickSort: 254
+                IntroSort: 174
+Size: 1600
+        Random array
+                QuickSort: 364
+                IntroSort: 293
+        Descending array
+                QuickSort: 265
+                IntroSort: 259
+        Nearly sorted array
+                QuickSort: 306
+                IntroSort: 220
+Size: 1700
+        Random array
+                QuickSort: 376
+                IntroSort: 345
+        Descending array
+                QuickSort: 312
+                IntroSort: 243
+        Nearly sorted array
+                QuickSort: 349
+                IntroSort: 212
+Size: 1800
+        Random array
+                QuickSort: 385
+                IntroSort: 371
+        Descending array
+                QuickSort: 313
+                IntroSort: 268
+        Nearly sorted array
+                QuickSort: 329
+                IntroSort: 227
+Size: 1900
+        Random array
+                QuickSort: 414
+                IntroSort: 386
+        Descending array
+                QuickSort: 355
+                IntroSort: 265
+        Nearly sorted array
+                QuickSort: 350
+                IntroSort: 269
+Size: 2000
+        Random array
+                QuickSort: 448
+                IntroSort: 382
+        Descending array
+                QuickSort: 339
+                IntroSort: 293
+        Nearly sorted array
+                QuickSort: 418
+                IntroSort: 260
+Size: 2100
+        Random array
+                QuickSort: 473
+                IntroSort: 437
+        Descending array
+                QuickSort: 373
+                IntroSort: 298
+        Nearly sorted array
+                QuickSort: 380
+                IntroSort: 340
+Size: 2200
+        Random array
+                QuickSort: 610
+                IntroSort: 498
+        Descending array
+                QuickSort: 387
+                IntroSort: 311
+        Nearly sorted array
+                QuickSort: 557
+                IntroSort: 374
+Size: 2300
+        Random array
+                QuickSort: 608
+                IntroSort: 466
+        Descending array
+                QuickSort: 399
+                IntroSort: 352
+        Nearly sorted array
+                QuickSort: 468
+                IntroSort: 315
+Size: 2400
+        Random array
+                QuickSort: 568
+                IntroSort: 477
+        Descending array
+                QuickSort: 444
+                IntroSort: 473
+        Nearly sorted array
+                QuickSort: 659
+                IntroSort: 418
+Size: 2500
+        Random array
+                QuickSort: 656
+                IntroSort: 499
+        Descending array
+                QuickSort: 440
+                IntroSort: 401
+        Nearly sorted array
+                QuickSort: 488
+                IntroSort: 331
+Size: 2600
+        Random array
+                QuickSort: 607
+                IntroSort: 517
+        Descending array
+                QuickSort: 495
+                IntroSort: 407
+        Nearly sorted array
+                QuickSort: 526
+                IntroSort: 339
+Size: 2700
+        Random array
+                QuickSort: 684
+                IntroSort: 611
+        Descending array
+                QuickSort: 485
+                IntroSort: 410
+        Nearly sorted array
+                QuickSort: 729
+                IntroSort: 369
+Size: 2800
+        Random array
+                QuickSort: 672
+                IntroSort: 568
+        Descending array
+                QuickSort: 489
+                IntroSort: 437
+        Nearly sorted array
+                QuickSort: 535
+                IntroSort: 496
+Size: 2900
+        Random array
+                QuickSort: 667
+                IntroSort: 604
+        Descending array
+                QuickSort: 514
+                IntroSort: 436
+        Nearly sorted array
+                QuickSort: 557
+                IntroSort: 403
+Size: 3000
+        Random array
+                QuickSort: 757
+                IntroSort: 780
+        Descending array
+                QuickSort: 595
+                IntroSort: 482
+        Nearly sorted array
+                QuickSort: 613
+                IntroSort: 461
+Size: 3100
+        Random array
+                QuickSort: 705
+                IntroSort: 726
+        Descending array
+                QuickSort: 555
+                IntroSort: 561
+        Nearly sorted array
+                QuickSort: 713
+                IntroSort: 456
+Size: 3200
+        Random array
+                QuickSort: 822
+                IntroSort: 722
+        Descending array
+                QuickSort: 645
+                IntroSort: 512
+        Nearly sorted array
+                QuickSort: 650
+                IntroSort: 453
+Size: 3300
+        Random array
+                QuickSort: 817
+                IntroSort: 766
+        Descending array
+                QuickSort: 593
+                IntroSort: 602
+        Nearly sorted array
+                QuickSort: 692
+                IntroSort: 503
+Size: 3400
+        Random array
+                QuickSort: 864
+                IntroSort: 723
+        Descending array
+                QuickSort: 639
+                IntroSort: 562
+        Nearly sorted array
+                QuickSort: 616
+                IntroSort: 504
+Size: 3500
+        Random array
+                QuickSort: 1036
+                IntroSort: 926
+        Descending array
+                QuickSort: 1008
+                IntroSort: 669
+        Nearly sorted array
+                QuickSort: 844
+                IntroSort: 868
+Size: 3600
+        Random array
+                QuickSort: 976
+                IntroSort: 747
+        Descending array
+                QuickSort: 664
+                IntroSort: 558
+        Nearly sorted array
+                QuickSort: 825
+                IntroSort: 666
+Size: 3700
+        Random array
+                QuickSort: 915
+                IntroSort: 847
+        Descending array
+                QuickSort: 726
+                IntroSort: 581
+        Nearly sorted array
+                QuickSort: 729
+                IntroSort: 492
+Size: 3800
+        Random array
+                QuickSort: 910
+                IntroSort: 837
+        Descending array
+                QuickSort: 840
+                IntroSort: 645
+        Nearly sorted array
+                QuickSort: 743
+                IntroSort: 557
+Size: 3900
+        Random array
+                QuickSort: 990
+                IntroSort: 984
+        Descending array
+                QuickSort: 782
+                IntroSort: 611
+        Nearly sorted array
+                QuickSort: 775
+                IntroSort: 538
+Size: 4000
+        Random array
+                QuickSort: 1005
+                IntroSort: 952
+        Descending array
+                QuickSort: 840
+                IntroSort: 642
+        Nearly sorted array
+                QuickSort: 761
+                IntroSort: 566
+Size: 4100
+        Random array
+                QuickSort: 1021
+                IntroSort: 898
+        Descending array
+                QuickSort: 742
+                IntroSort: 664
+        Nearly sorted array
+                QuickSort: 1629
+                IntroSort: 605
+Size: 4200
+        Random array
+                QuickSort: 1151
+                IntroSort: 935
+        Descending array
+                QuickSort: 772
+                IntroSort: 681
+        Nearly sorted array
+                QuickSort: 923
+                IntroSort: 682
+Size: 4300
+        Random array
+                QuickSort: 1073
+                IntroSort: 985
+        Descending array
+                QuickSort: 836
+                IntroSort: 701
+        Nearly sorted array
+                QuickSort: 964
+                IntroSort: 586
+Size: 4400
+        Random array
+                QuickSort: 1116
+                IntroSort: 982
+        Descending array
+                QuickSort: 869
+                IntroSort: 768
+        Nearly sorted array
+                QuickSort: 979
+                IntroSort: 624
+Size: 4500
+        Random array
+                QuickSort: 1220
+                IntroSort: 1074
+        Descending array
+                QuickSort: 842
+                IntroSort: 715
+        Nearly sorted array
+                QuickSort: 1064
+                IntroSort: 630
+Size: 4600
+        Random array
+                QuickSort: 1306
+                IntroSort: 1164
+        Descending array
+                QuickSort: 964
+                IntroSort: 742
+        Nearly sorted array
+                QuickSort: 943
+                IntroSort: 748
+Size: 4700
+        Random array
+                QuickSort: 1248
+                IntroSort: 1637
+        Descending array
+                QuickSort: 975
+                IntroSort: 759
+        Nearly sorted array
+                QuickSort: 1000
+                IntroSort: 748
+Size: 4800
+        Random array
+                QuickSort: 1271
+                IntroSort: 1240
+        Descending array
+                QuickSort: 929
+                IntroSort: 833
+        Nearly sorted array
+                QuickSort: 933
+                IntroSort: 752
+Size: 4900
+        Random array
+                QuickSort: 1262
+                IntroSort: 1112
+        Descending array
+                QuickSort: 994
+                IntroSort: 1374
+        Nearly sorted array
+                QuickSort: 1186
+                IntroSort: 695
+Size: 5000
+        Random array
+                QuickSort: 1253
+                IntroSort: 1111
+        Descending array
+                QuickSort: 985
+                IntroSort: 845
+        Nearly sorted array
+                QuickSort: 1034
+                IntroSort: 693
+Size: 5100
+        Random array
+                QuickSort: 1275
+                IntroSort: 1234
+        Descending array
+                QuickSort: 988
+                IntroSort: 828
+        Nearly sorted array
+                QuickSort: 1047
+                IntroSort: 875
+Size: 5200
+        Random array
+                QuickSort: 1418
+                IntroSort: 1188
+        Descending array
+                QuickSort: 1064
+                IntroSort: 840
+        Nearly sorted array
+                QuickSort: 1133
+                IntroSort: 758
+Size: 5300
+        Random array
+                QuickSort: 1341
+                IntroSort: 1148
+        Descending array
+                QuickSort: 993
+                IntroSort: 832
+        Nearly sorted array
+                QuickSort: 1067
+                IntroSort: 737
+Size: 5400
+        Random array
+                QuickSort: 1385
+                IntroSort: 1253
+        Descending array
+                QuickSort: 1037
+                IntroSort: 1141
+        Nearly sorted array
+                QuickSort: 1112
+                IntroSort: 964
+Size: 5500
+        Random array
+                QuickSort: 1666
+                IntroSort: 1287
+        Descending array
+                QuickSort: 1120
+                IntroSort: 946
+        Nearly sorted array
+                QuickSort: 1169
+                IntroSort: 757
+Size: 5600
+        Random array
+                QuickSort: 1488
+                IntroSort: 1336
+        Descending array
+                QuickSort: 1069
+                IntroSort: 999
+        Nearly sorted array
+                QuickSort: 1158
+                IntroSort: 920
+Size: 5700
+        Random array
+                QuickSort: 1493
+                IntroSort: 1274
+        Descending array
+                QuickSort: 1078
+                IntroSort: 941
+        Nearly sorted array
+                QuickSort: 1399
+                IntroSort: 879
+Size: 5800
+        Random array
+                QuickSort: 1636
+                IntroSort: 1461
+        Descending array
+                QuickSort: 1179
+                IntroSort: 1003
+        Nearly sorted array
+                QuickSort: 1398
+                IntroSort: 925
+Size: 5900
+        Random array
+                QuickSort: 1545
+                IntroSort: 1383
+        Descending array
+                QuickSort: 1117
+                IntroSort: 993
+        Nearly sorted array
+                QuickSort: 1301
+                IntroSort: 943
+Size: 6000
+        Random array
+                QuickSort: 1500
+                IntroSort: 1435
+        Descending array
+                QuickSort: 1188
+                IntroSort: 1031
+        Nearly sorted array
+                QuickSort: 1288
+                IntroSort: 998
+Size: 6100
+        Random array
+                QuickSort: 1541
+                IntroSort: 1459
+        Descending array
+                QuickSort: 1127
+                IntroSort: 1002
+        Nearly sorted array
+                QuickSort: 1204
+                IntroSort: 920
+Size: 6200
+        Random array
+                QuickSort: 1651
+                IntroSort: 1519
+        Descending array
+                QuickSort: 1354
+                IntroSort: 1012
+        Nearly sorted array
+                QuickSort: 1272
+                IntroSort: 1031
+Size: 6300
+        Random array
+                QuickSort: 1658
+                IntroSort: 1517
+        Descending array
+                QuickSort: 1235
+                IntroSort: 1113
+        Nearly sorted array
+                QuickSort: 1291
+                IntroSort: 1071
+Size: 6400
+        Random array
+                QuickSort: 1586
+                IntroSort: 1442
+        Descending array
+                QuickSort: 1210
+                IntroSort: 1089
+        Nearly sorted array
+                QuickSort: 1379
+                IntroSort: 1061
+Size: 6500
+        Random array
+                QuickSort: 1900
+                IntroSort: 1659
+        Descending array
+                QuickSort: 1247
+                IntroSort: 1124
+        Nearly sorted array
+                QuickSort: 1381
+                IntroSort: 981
+Size: 6600
+        Random array
+                QuickSort: 1753
+                IntroSort: 1591
+        Descending array
+                QuickSort: 1300
+                IntroSort: 1192
+        Nearly sorted array
+                QuickSort: 1452
+                IntroSort: 1234
+Size: 6700
+        Random array
+                QuickSort: 1841
+                IntroSort: 1609
+        Descending array
+                QuickSort: 1428
+                IntroSort: 1126
+        Nearly sorted array
+                QuickSort: 1583
+                IntroSort: 1094
+Size: 6800
+        Random array
+                QuickSort: 1791
+                IntroSort: 1609
+        Descending array
+                QuickSort: 1336
+                IntroSort: 1328
+        Nearly sorted array
+                QuickSort: 1507
+                IntroSort: 1103
+Size: 6900
+        Random array
+                QuickSort: 2029
+                IntroSort: 1654
+        Descending array
+                QuickSort: 1306
+                IntroSort: 1178
+        Nearly sorted array
+                QuickSort: 1452
+                IntroSort: 1035
+Size: 7000
+        Random array
+                QuickSort: 1964
+                IntroSort: 1865
+        Descending array
+                QuickSort: 1451
+                IntroSort: 1232
+        Nearly sorted array
+                QuickSort: 1564
+                IntroSort: 1041
+Size: 7100
+        Random array
+                QuickSort: 2053
+                IntroSort: 1745
+        Descending array
+                QuickSort: 1533
+                IntroSort: 1237
+        Nearly sorted array
+                QuickSort: 1672
+                IntroSort: 1276
+Size: 7200
+        Random array
+                QuickSort: 2066
+                IntroSort: 1855
+        Descending array
+                QuickSort: 1679
+                IntroSort: 2043
+        Nearly sorted array
+                QuickSort: 2069
+                IntroSort: 1621
+Size: 7300
+        Random array
+                QuickSort: 2236
+                IntroSort: 2012
+        Descending array
+                QuickSort: 1908
+                IntroSort: 1672
+        Nearly sorted array
+                QuickSort: 1630
+                IntroSort: 1111
+Size: 7400
+        Random array
+                QuickSort: 2005
+                IntroSort: 1800
+        Descending array
+                QuickSort: 1471
+                IntroSort: 1227
+        Nearly sorted array
+                QuickSort: 1644
+                IntroSort: 1323
+Size: 7500
+        Random array
+                QuickSort: 1990
+                IntroSort: 1778
+        Descending array
+                QuickSort: 1479
+                IntroSort: 1258
+        Nearly sorted array
+                QuickSort: 1697
+                IntroSort: 1211
+Size: 7600
+        Random array
+                QuickSort: 2276
+                IntroSort: 1931
+        Descending array
+                QuickSort: 1863
+                IntroSort: 1400
+        Nearly sorted array
+                QuickSort: 1796
+                IntroSort: 1149
+Size: 7700
+        Random array
+                QuickSort: 2026
+                IntroSort: 2075
+        Descending array
+                QuickSort: 1661
+                IntroSort: 1277
+        Nearly sorted array
+                QuickSort: 1719
+                IntroSort: 1523
+Size: 7800
+        Random array
+                QuickSort: 2089
+                IntroSort: 1824
+        Descending array
+                QuickSort: 1713
+                IntroSort: 1475
+        Nearly sorted array
+                QuickSort: 1746
+                IntroSort: 1362
+Size: 7900
+        Random array
+                QuickSort: 2148
+                IntroSort: 1963
+        Descending array
+                QuickSort: 1568
+                IntroSort: 1337
+        Nearly sorted array
+                QuickSort: 1776
+                IntroSort: 1191
+Size: 8000
+        Random array
+                QuickSort: 2183
+                IntroSort: 1796
+        Descending array
+                QuickSort: 1591
+                IntroSort: 1512
+        Nearly sorted array
+                QuickSort: 1798
+                IntroSort: 1226
+Size: 8100
+        Random array
+                QuickSort: 2161
+                IntroSort: 1895
+        Descending array
+                QuickSort: 1665
+                IntroSort: 1374
+        Nearly sorted array
+                QuickSort: 1663
+                IntroSort: 1207
+Size: 8200
+        Random array
+                QuickSort: 2290
+                IntroSort: 1903
+        Descending array
+                QuickSort: 1622
+                IntroSort: 1534
+        Nearly sorted array
+                QuickSort: 1828
+                IntroSort: 1331
+Size: 8300
+        Random array
+                QuickSort: 2312
+                IntroSort: 2053
+        Descending array
+                QuickSort: 1835
+                IntroSort: 1518
+        Nearly sorted array
+                QuickSort: 1831
+                IntroSort: 1419
+Size: 8400
+        Random array
+                QuickSort: 2424
+                IntroSort: 2085
+        Descending array
+                QuickSort: 1747
+                IntroSort: 1631
+        Nearly sorted array
+                QuickSort: 1853
+                IntroSort: 1462
+Size: 8500
+        Random array
+                QuickSort: 2481
+                IntroSort: 2007
+        Descending array
+                QuickSort: 1603
+                IntroSort: 1599
+        Nearly sorted array
+                QuickSort: 1876
+                IntroSort: 1276
+Size: 8600
+        Random array
+                QuickSort: 2430
+                IntroSort: 2098
+        Descending array
+                QuickSort: 2207
+                IntroSort: 1578
+        Nearly sorted array
+                QuickSort: 1945
+                IntroSort: 1448
+Size: 8700
+        Random array
+                QuickSort: 2425
+                IntroSort: 2023
+        Descending array
+                QuickSort: 1744
+                IntroSort: 1541
+        Nearly sorted array
+                QuickSort: 1986
+                IntroSort: 1370
+Size: 8800
+        Random array
+                QuickSort: 2463
+                IntroSort: 2283
+        Descending array
+                QuickSort: 1659
+                IntroSort: 1704
+        Nearly sorted array
+                QuickSort: 1878
+                IntroSort: 1432
+Size: 8900
+        Random array
+                QuickSort: 2454
+                IntroSort: 2129
+        Descending array
+                QuickSort: 1784
+                IntroSort: 1553
+        Nearly sorted array
+                QuickSort: 1937
+                IntroSort: 1322
+Size: 9000
+        Random array
+                QuickSort: 2502
+                IntroSort: 2353
+        Descending array
+                QuickSort: 2708
+                IntroSort: 1696
+        Nearly sorted array
+                QuickSort: 1781
+                IntroSort: 1370
+Size: 9100
+        Random array
+                QuickSort: 2462
+                IntroSort: 2280
+        Descending array
+                QuickSort: 1912
+                IntroSort: 1755
+        Nearly sorted array
+                QuickSort: 2244
+                IntroSort: 1359
+Size: 9200
+        Random array
+                QuickSort: 2577
+                IntroSort: 2255
+        Descending array
+                QuickSort: 1933
+                IntroSort: 1564
+        Nearly sorted array
+                QuickSort: 2068
+                IntroSort: 1356
+Size: 9300
+        Random array
+                QuickSort: 2676
+                IntroSort: 2300
+        Descending array
+                QuickSort: 1943
+                IntroSort: 1623
+        Nearly sorted array
+                QuickSort: 1948
+                IntroSort: 1518
+Size: 9400
+        Random array
+                QuickSort: 2904
+                IntroSort: 2450
+        Descending array
+                QuickSort: 1984
+                IntroSort: 1766
+        Nearly sorted array
+                QuickSort: 2116
+                IntroSort: 1466
+Size: 9500
+        Random array
+                QuickSort: 2541
+                IntroSort: 2505
+        Descending array
+                QuickSort: 2082
+                IntroSort: 1724
+        Nearly sorted array
+                QuickSort: 2083
+                IntroSort: 1540
+Size: 9600
+        Random array
+                QuickSort: 2484
+                IntroSort: 2424
+        Descending array
+                QuickSort: 1941
+                IntroSort: 1727
+        Nearly sorted array
+                QuickSort: 2071
+                IntroSort: 1580
+Size: 9700
+        Random array
+                QuickSort: 2664
+                IntroSort: 2401
+        Descending array
+                QuickSort: 2046
+                IntroSort: 2051
+        Nearly sorted array
+                QuickSort: 2909
+                IntroSort: 2440
+Size: 9800
+        Random array
+                QuickSort: 2874
+                IntroSort: 2352
+        Descending array
+                QuickSort: 2203
+                IntroSort: 1810
+        Nearly sorted array
+                QuickSort: 2151
+                IntroSort: 1713
+Size: 9900
+        Random array
+                QuickSort: 2700
+                IntroSort: 2407
+        Descending array
+                QuickSort: 2207
+                IntroSort: 1832
+        Nearly sorted array
+                QuickSort: 2036
+                IntroSort: 1624
+Size: 10000
+        Random array
+                QuickSort: 3682
+                IntroSort: 2723
+        Descending array
+                QuickSort: 2076
+                IntroSort: 1822
+        Nearly sorted array
+                QuickSort: 2093
+                IntroSort: 1781
